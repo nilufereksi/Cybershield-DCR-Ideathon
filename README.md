@@ -1,4 +1,4 @@
-# 🔐 CYBERSHIELD DCR Ideathon Projesi
+# 🔐 CYBERSHIELD DCR Ideathon Project
 
 > **IKU Aws&Cloud Ideathon 2026**  
 > AI destekli, sıfır-bilgi ispatı (Zero-Knowledge Proof) mimarisiyle çalışan siber tehdit tespit platformu.
@@ -7,7 +7,7 @@
 
 ## 📌 Proje Özeti
 
-**ZKP Cyber-Intel Platform**, kurumsal ağ trafiğini **şifrelenmiş halde** analiz ederek siber tehditleri gerçek zamanlı tespit eden bir yapay zeka platformudur. Ham veri asla açık şekilde işlenmez; bunun yerine **SHA-256 hashing** ve **AES-256 şifreleme** ile bir "Data Clean Room" mimarisi oluşturulur.
+**CYBERSHIELD DCR**, kurumsal ağ trafiğini **şifrelenmiş halde** analiz ederek siber tehditleri gerçek zamanlı tespit eden bir yapay zeka platformudur. Ham veri asla açık şekilde işlenmez; bunun yerine **SHA-256 hashing** ve **AES-256 şifreleme** ile bir "Data Clean Room" mimarisi oluşturulur.
 
 - 🛡️ **Anomali Tespiti** → NSL-KDD veri setiyle eğitilmiş Isolation Forest modeli
 - 🔑 **Veri Gizliliği** → SHA-256 maskeleme + AES-256 (Fernet) şifreleme
