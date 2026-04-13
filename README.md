@@ -1,5 +1,8 @@
 # 🔐 CYBERSHIELD DCR Ideathon Project
 
+![cybershield dcr ideathon github ](https://github.com/user-attachments/assets/a26059c4-64cb-40a9-bba0-359e004250b0)
+
+
 > **IKU Aws&Cloud Ideathon 2026**  
 > AI destekli, sıfır-bilgi ispatı (Zero-Knowledge Proof) mimarisiyle çalışan siber tehdit tespit platformu.
 
