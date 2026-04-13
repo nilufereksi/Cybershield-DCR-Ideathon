@@ -1,6 +1,6 @@
-# 🔐 ZKP Cyber-Intelligence Platform
+# 🔐 CYBERSHIELD DCR Ideathon Projesi
 
-> **Ideathon 2026 — Cloud & AI Real World Solutions**  
+> **IKU Aws&Cloud Ideathon 2026**  
 > AI destekli, sıfır-bilgi ispatı (Zero-Knowledge Proof) mimarisiyle çalışan siber tehdit tespit platformu.
 
 ---
@@ -150,13 +150,6 @@ docker run -p 8501:8501 zkp-cyber-intel
 
 Bu proje **MIT Lisansı** altında lisanslanmıştır.
 
----
-
-## 👥 Katkıda Bulunanlar
-
-- **Ideathon 2026 Ekibi**
-
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python"/>
